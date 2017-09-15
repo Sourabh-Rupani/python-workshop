@@ -1,2 +1,3 @@
 # python-workshop
-Python Workshop at our college
+Basic Python Programs 
+I'll be adding more programs related to python in this repository.
